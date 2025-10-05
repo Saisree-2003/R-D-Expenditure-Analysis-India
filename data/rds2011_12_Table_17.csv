@@ -1,0 +1,48 @@
+Sectors,Sub Sectors and Economic Activity,NIC Code,Research & Development Expenditure in 2005-06,Research & Development Expenditure in 2006-07,Research & Development Expenditure in 2007-08,Research & Development Expenditure in 2008-09,Research & Development Expenditure in 2009-10
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying","1. Agriculture, Hunting and Related Service Activities",1,3717.87,4401.52,4555.12,5709.25,6196.18
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying","2. Forestry, Logging and Related Service Activities",2,300.57,350.37,357.15,452.40,489.43
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying","3. Fishing, Operation of Fish Hatcheries and Fish Farms",3,153.26,163.42,162.00,213.28,272.72
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying","4. Mining of Coal and Lignite, Extraction of Peat",5,14.84,6.00,12.86,10.00,11.00
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying",5. Extraction of Crude Petroleum and Natural Gas,6,19.09,26.64,12.56,8.05,27.57
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying","6. Mining of Metal Ores, Other Mining and Quarrying",7,36.66,36.85,39.93,34.65,50.20
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying",Total R&D Expenditure(Rs Crore) (A),NA,4242.29,4984.79,5139.62,6427.64,7047.10
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying",GDP by industry of origin (at factor cost Rs. Crores),NA,732234.00,829771.00,961330.00,1083032.00,1236765.00
+"(A) Agriculture, Forestry & Fishing, Mining & Quarrying",Ratio of R&D expenditure to GDP by industry of origin (%),NA,0.58,0.60,0.53,0.59,0.57
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",1. Manufacture of Food Products and Beverages,10,96.85,102.71,103.91,170.18,212.06
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",2. Manufacture of Tobacco Products,12,0.00,0.00,0.00,0.00,0.00
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",3. Manufacture of Textiles,13,90.10,83.50,97.34,132.62,157.02
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply","4. Manufacture of Wearing Apparel, Dressing and Dyeing of Fur",14,0.00,0.00,0.00,0.00,0.00
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply","5. Tanning and Dressing of Leather, Luggage Handbags etc.",15,23.73,23.98,25.67,37.08,43.00
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",6. Manufacture of Wood and Products of Wood and Cork,16,6.68,9.34,9.79,9.93,11.05
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",7. Manufacture of Paper and Paper Products,17,25.71,22.27,24.92,34.49,50.17
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply","8. Manufacture of Coke, Refined Petroleum Products and Nuclear Fuel",19,0.00,0.00,0.00,0.00,0.00
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply","9. Manufacture of Chemicals, Chemical Products & Fertilizers",20,61.19,54.96,65.23,64.72,112.80
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",10. Drugs & Pharmaceuticals,21,564.65,710.31,817.74,978.13,1206.43
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",11. Manufacture of Rubber and Plastic Products,22,10.81,27.63,14.27,21.16,27.24
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",12. Manufacture of other Non-Metallic Mineral Products,23,27.26,41.57,36.90,34.82,33.91
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",13. Manufacture of Basic Metals,24,37.77,52.28,61.15,90.83,70.60
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",14. Manufacture of Fabricated Metal Products,25,0.00,0.00,0.00,0.00,0.00
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply","15. Manufacture of Medical, Precision and Optical Instruments",26,0.00,0.00,0.00,0.00,0.00
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",16. Manufacture of Electrical Machinery and Apparatus,27,0.38,0.53,0.52,0.46,0.70
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",17. Manufacture of Machinery and Equipment,28,0.00,0.00,0.00,0.00,0.00
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply","18. Electricity, Gas, Steam and Water Supply",35,1555.66,1813.99,1918.01,2575.43,3430.76
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply","19. Land Transport, Transport via Pipelines",49,56.86,80.81,75.84,106.31,144.77
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",Total R&D Expenditure (Rs Crore) (B),NA,2557.64,3023.89,3251.29,4256.16,5500.51
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",GDP by industry of origin (at factor cost Rs. Crores),NA,859410.00,1033410.00,1205458.00,1360426.00,1521744.00
+"(B) Manufacturing, Construction, Electricity Gas & Water Supply",Ratio of R&D expenditure to GDP by industry of origin (%),NA,0.30,0.29,0.27,0.31,0.36
+(C) Transport & Communication,1. Manufacture of Motor Vehicles,29,63.35,54.34,66.04,90.76,93.31
+(C) Transport & Communication,2. Manufacture of other Transport Equipment,30,0.00,0.00,0.00,0.00,0.00
+(C) Transport & Communication,3. Telecommunications,61,157.55,180.71,180.58,223.69,208.65
+(C) Transport & Communication,4. Computer and Related Activities,62,223.50,252.16,292.14,347.44,474.47
+(C) Transport & Communication,Total R&D Expenditure(Rs in Crore) ( C ),NA,444.41,487.20,538.76,661.89,776.42
+(C) Transport & Communication,GDP by industry of origin (at factor cost Rs. Crores),NA,846606.00,998379.00,1150044.00,1310845.00,1485476.00
+(C) Transport & Communication,Ratio of R&D expenditure to GDP by industry of origin (%),NA,0.05,0.05,0.05,0.05,0.05
+(D) Public Administration & Defence and other Services,1. Public Administration and Defence,84,5299.41,5380.49,6123.98,7720.45,8498.89
+(D) Public Administration & Defence and other Services,2. Education,85,425.15,493.76,502.94,801.57,823.92
+(D) Public Administration & Defence and other Services,3. Health and Social Work,86,603.73,747.01,667.40,1082.42,1149.32
+(D) Public Administration & Defence and other Services,4. Service Sector,94,4988.38,5329.30,6234.68,6961.87,8192.51
+(D) Public Administration & Defence and other Services,5. Others Please Specify,99,358.42,397.76,514.75,707.42,732.54
+(D) Public Administration & Defence and other Services,Total R&D Expenditure (Rs Crore) (D),NA,11675.09,12348.31,14043.76,17273.72,19397.18
+(D) Public Administration & Defence and other Services,GDP by industry of origin (at factor cost Rs. Crores),NA,459151.00,505121.00,573790.00,703895.00,885314.00
+(D) Public Administration & Defence and other Services,Ratio of R&D expenditure to GDP by industry of origin (%),NA,2.54,2.44,2.45,2.45,2.19
+Total ,R&D Expenditure(Rs in Crore) (A+B+C+D),NA,18919.42,20844.19,22973.42,28619.40,32721.22
